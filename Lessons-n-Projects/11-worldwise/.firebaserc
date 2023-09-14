@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "worldwise-00"
+  },
+  "predeploy":["npm run build"]
+}

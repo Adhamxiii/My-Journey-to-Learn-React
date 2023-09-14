@@ -1,0 +1,67 @@
+.app-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.header {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.balance-container,
+.loan-container {
+  margin-bottom: 20px;
+}
+
+.balance-label,
+.loan-label {
+  font-size: 20px;
+  font-weight: bold;
+  color: #555;
+}
+
+.balance-amount,
+.loan-amount {
+  font-size: 24px;
+  color: #333;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.action-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.action-button:hover {
+  background-color: #0056b3;
+}
+
+.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.close-button {
+  background-color: #dc3545;
+}
+
+.close-button:hover {
+  background-color: #a71927;
+}
