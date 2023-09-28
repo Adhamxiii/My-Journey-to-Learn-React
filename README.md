@@ -57,7 +57,6 @@ This repository serves as a central hub for my React learning journey. Here's wh
 
 [Read more](./Lessons-n-Projects/02-steps/README.md)
 
-
 ### Lesson 3: Building a Packing List App
 
 - **Directory**: [Lessons-n-Projects/03-travel-list/](./Lessons-n-Projects/03-travel-list/)
@@ -89,7 +88,6 @@ Stay tuned for more challenges, projects, and lessons as I continue my journey t
 
 [Read more](Lessons-n-Projects/04-eat-n-split/README.md)
 
-
 Stay tuned as I continue to explore more advanced concepts and build exciting projects in my journey to master React development!
 
 ### Lesson 5: Understanding React Rendering and Key Concepts
@@ -110,7 +108,6 @@ Stay tuned as I continue to explore more advanced concepts and build exciting pr
 
 [Read more](Lessons-n-Projects/05-how-react-works/README.md)
 
-
 ### Lesson 6: Movie Search App
 
 - **Directory**: [Lessons-n-Projects/06-usepopcorn/](./Lessons-n-Projects/06-usepopcorn/)
@@ -123,7 +120,6 @@ Stay tuned as I continue to explore more advanced concepts and build exciting pr
 - **Live Demo**: Check out the live demo of the Movie Search App: [Live Demo](https://cinematease-00.web.app/)
 
 [Read more](Lessons-n-Projects/06-usepopcorn/README.md)
-
 
 ### Stay Tuned
 
@@ -218,7 +214,6 @@ This lesson has significantly contributed to my growing expertise in React devel
 
 [Read more](Lessons-n-Projects/12-redux-intro/README.md)
 
-
 ## Exercises
 
 ### Exercise 01: Flash Cards with React
@@ -226,7 +221,6 @@ This lesson has significantly contributed to my growing expertise in React devel
 Welcome to the README for my Flash Cards exercise using React. This exercise focuses on building a simple interactive flash cards application that toggles between displaying questions and answers upon clicking on each card. The exercise highlights the use of state management, conditional rendering, and event handling within a React application.
 
 [**View Exercise README**](./Exercise/exercise-01/README.md)
-
 
 ### Exercise 02: FAQ Accordion App
 
@@ -239,6 +233,18 @@ Welcome to my FAQ Accordion App exercise! This repository showcases my progress 
 This repository contains code for an Accordion component implemented using React. The Accordion component allows users to toggle and view content associated with each accordion item.
 
 [**View Exercise README**](./Exercise/exercise-03/README.md)
+
+### Exercise 04: Higher-Order Components (HOC) Exercise
+
+In this exercise, we explore Higher-Order Components (HOC) in React to enhance the functionality of components. We apply HOC to create a toggling feature for displaying limited items initially and expanding to show all items when needed.
+
+[**View Exercise README**](./Exercise/exercise-04/README.md)
+
+### Exercise 05: Compound Component Pattern
+
+In this exercise, we explore the Compound Component Pattern using React. The Compound Component Pattern allows us to build components that work together seamlessly while providing a flexible and intuitive API for consuming these components.
+
+[**View Exercise README**](./Exercise/exercise-05/README.md)
 
 ## Challenges
 
@@ -265,7 +271,6 @@ Throughout my journey of learning React, I've taken on various challenges to app
 10. [Challenge 10: Atomic Blog](./Challenges/challenge-10/README.md) - The Atomic Blog is a React application that allows users to manage and view a list of blog posts, demonstrating various React concepts such as managing local state, form handling, and component composition.
 
 11. [Challenge 11: Refactoring with Context API](./Challenges/challenge-11/README.md) - In this challenge, I refactored an existing React application using the Context API to improve state management and data flow.
-
 
 ## Stay Connected
 
