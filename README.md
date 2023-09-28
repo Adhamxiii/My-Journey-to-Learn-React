@@ -214,6 +214,41 @@ This lesson has significantly contributed to my growing expertise in React devel
 
 [Read more](Lessons-n-Projects/12-redux-intro/README.md)
 
+### Lesson 13: Fast React Pizza Co. - Online Pizza Ordering System
+
+- **Directory**: [Lessons-n-Projects/13-fast-react-pizza/](./Lessons-n-Projects/13-fast-react-pizza/)
+- **Summary**: Fast React Pizza Co. is a web-based pizza ordering system built with React, Redux, and Node.js. This application allows users to browse a menu of delicious pizzas, customize their orders, and place them online for delivery or pickup. It also includes user authentication, real-time order tracking, and geolocation-based address retrieval.
+- **Concepts Learned**:
+  - Building a responsive user interface with React components.
+  - Managing global state and asynchronous actions using Redux.
+  - Implementing user authentication and authorization.
+  - Integrating third-party APIs for geolocation.
+  - Handling real-time updates and tracking with web sockets.
+  - Deploying a full-stack application to a production server.
+- **Preview**: ![Fast React Pizza Co. Preview](./Lessons-n-Projects/13-fast-react-pizza/public/screenshot.png)
+
+[Read more](./Lessons-n-Projects/13-fast-react-pizza/README.md)
+
+### Lesson 14: The Wild Oasis - React Application
+
+- **Directory**: [Lessons-n-Projects/14-the-wild-oasis/](./Lessons-n-Projects/14-the-wild-oasis/)
+- **Summary**: **The Wild Oasis** is a modern React application designed to manage bookings and cabins for a wilderness retreat. This project serves as a comprehensive example of building a robust web application using React and various technologies. You'll learn how to create and manage components, handle user authentication, fetch and display data, and much more.
+- **Concepts Learned**:
+  - Creating React Components and organizing them effectively.
+  - Implementing user authentication, including sign-up, login, and logout features.
+  - Fetching data from external APIs (Supabase) and displaying it in your React components.
+  - Handling form submissions and validation.
+  - Styling your application using CSS-in-JS (Styled Components).
+  - Implementing error handling with user-friendly error messages.
+  - Managing file uploads, including image uploads to cloud storage.
+  - Utilizing React Context for global application settings like dark mode.
+  - Efficient data fetching, caching, and background data synchronization with `react-query`.
+  - Implementing navigation guards to restrict access based on user authentication status.
+- **Preview**: ![The Wild Oasis Preview](./Lessons-n-Projects/14-the-wild-oasis/public/screenshot.png)
+
+[Read more](Lessons-n-Projects/14-the-wild-oasis/README.md)
+
+
 ## Exercises
 
 ### Exercise 01: Flash Cards with React
