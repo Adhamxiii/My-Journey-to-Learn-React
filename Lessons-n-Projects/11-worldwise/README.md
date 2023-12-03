@@ -4,12 +4,15 @@ WorldWise is a web application that allows you to track your adventures around t
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Lessons and Learnings](#lessons-and-learnings)
+- [WorldWise](#worldwise)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [Technologies Used](#technologies-used)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [Contributing](#contributing)
 
 ## Demo
 
@@ -73,7 +76,7 @@ Contributions to improve this app are welcome! If you have any ideas for new fea
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🌍🚀

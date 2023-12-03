@@ -4,13 +4,14 @@ This is a simple Banking App built using React and state management with the `us
 
 ## Table of Contents
 
-- [Description](#description)
-- [Demo](#demo)
-- [Usage](#usage)
-- [Features](#features)
-- [Lessons and Learnings](#lessons-and-learnings)
-- [Contributing](#contributing)
-- [License](#license)
+- [Banking App](#banking-app)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Demo](#demo)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [Contributing](#contributing)
 
 ## Description
 
@@ -54,7 +55,7 @@ Contributions to improve this app are welcome! If you have any ideas for new fea
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🌍🚀

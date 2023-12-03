@@ -313,7 +313,7 @@ Follow along with my progress and connect with me on my journey. Feel free to re
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Thank you for joining me on my React learning journey! Happy coding! 🚀

@@ -4,10 +4,13 @@ Welcome to the README for my Flash Cards exercise using React. This exercise foc
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Learnings](#learnings)
-- [Preview](#preview)
+- [Exercise: Flash Cards with React](#exercise-flash-cards-with-react)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Learnings](#learnings)
+  - [Preview](#preview)
+  - [What's Next](#whats-next)
 
 ## Introduction
 
@@ -41,7 +44,7 @@ By completing this exercise, I've honed my skills in state management, condition
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more exercises and projects as I continue my journey of learning React! 🚀

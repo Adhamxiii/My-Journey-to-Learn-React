@@ -4,10 +4,13 @@ Welcome to **Challenge 1** of my learning journey! In this challenge, I've built
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Learnings](#learnings)
-- [Preview](#preview)
+- [Challenge 1: Building a Personal Portfolio Card](#challenge-1-building-a-personal-portfolio-card)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Learnings](#learnings)
+  - [Preview](#preview)
+  - [What's Next](#whats-next)
 
 ## Introduction
 
@@ -45,7 +48,7 @@ Here's a preview of how the personal portfolio card looks:
 Completing this challenge has given me a taste of building interactive and dynamic components with React. I'm excited to continue refining my skills and taking on more complex projects that demonstrate my growth as a frontend developer.
 
 Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more challenges and projects in my learning journey! 🚀

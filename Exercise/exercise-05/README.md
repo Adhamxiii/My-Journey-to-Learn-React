@@ -4,11 +4,13 @@ In this exercise, we explore the Compound Component Pattern using React. The Com
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Usage](#usage)
-- [How it Works](#how-it-works)
-- [Components](#components)
-- [Connect with Me](#connect-with-me)
+- [The Compound Component Pattern](#the-compound-component-pattern)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Usage](#usage)
+  - [How it Works](#how-it-works)
+  - [Components](#components)
+  - [Connect with Me](#connect-with-me)
 
 ## Overview
 
@@ -47,7 +49,7 @@ Here's how the Compound Component Pattern works in this exercise:
 
 ## Connect with Me
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and exploring the Compound Component Pattern in React! 🚀

@@ -4,13 +4,16 @@ This is a React Quiz App that allows users to test their knowledge with a series
 
 ## Table of Contents
 
-- [Description](#description)
-- [Demo](#demo)
-- [Usage](#usage)
-- [Features](#features)
-- [Components](#components)
-- [How It Works](#how-it-works)
-- [Lessons and Learnings](#lessons-and-learnings)
+- [React Quiz App](#react-quiz-app)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Demo](#demo)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Components](#components)
+  - [How It Works](#how-it-works)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [Connect with Me](#connect-with-me)
 
 ## Description
 
@@ -87,7 +90,7 @@ These lessons contribute to a deeper understanding of React and state management
 
 Feel free to connect with me as we continue to explore the exciting world of React development:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🌍🚀

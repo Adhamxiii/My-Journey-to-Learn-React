@@ -37,7 +37,7 @@ The Currency Converter App is a simple web application built using React that al
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning!

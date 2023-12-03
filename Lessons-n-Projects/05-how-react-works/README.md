@@ -53,7 +53,7 @@ I practiced applying my knowledge by building a Tabbed Component using React. Th
 Stay tuned as I continue to explore more advanced concepts and build exciting projects in my journey to master React development!
 
 ## Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning!

@@ -4,12 +4,14 @@ Welcome to the README for Challenge 6, where I've built a Text Expander Componen
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Key Concepts Learned](#key-concepts-learned)
-- [Usage](#usage)
-- [Component Details](#component-details)
-- [Preview](#preview)
+- [Challenge 6: Text Expander Component](#challenge-6-text-expander-component)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Key Concepts Learned](#key-concepts-learned)
+  - [Usage](#usage)
+  - [Component Details](#component-details)
+  - [Preview](#preview)
 
 ## Introduction
 
@@ -69,7 +71,7 @@ Feel free to explore the code and integrate the Text Expander Component into you
 
 Connect with me:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning!

@@ -4,10 +4,13 @@ Welcome to the README for my Challenge 3 code that involves building a dynamic d
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Learnings](#learnings)
-- [Preview](#preview)
+- [Challenge 4: Building a Dynamic Date Counter](#challenge-4-building-a-dynamic-date-counter)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Learnings](#learnings)
+  - [Preview](#preview)
+  - [What's Next](#whats-next)
 
 ## Introduction
 
@@ -40,7 +43,7 @@ Here's a visual preview of the Challenge 4 app:
 By completing this challenge, I've expanded my understanding of state management and learned to apply it to real-world scenarios, such as dynamic date calculations. I'm excited to continue building more complex applications and exploring advanced concepts in my React learning journey.
 
 Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more challenges and projects in my journey to master React development! 🚀

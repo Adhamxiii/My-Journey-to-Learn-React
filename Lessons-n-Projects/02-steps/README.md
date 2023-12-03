@@ -4,10 +4,13 @@ Welcome to the README for my pre-project code that introduces the concept of man
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Learnings](#learnings)
-- [Preview](#preview)
+- [Pre-Project Code: Steps and Messages App](#pre-project-code-steps-and-messages-app)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Learnings](#learnings)
+  - [Preview](#preview)
+  - [What's Next](#whats-next)
 
 ## Introduction
 
@@ -40,7 +43,7 @@ Here's a visual preview of the pre-project app:
 This pre-project exercise has introduced me to fundamental concepts in React, including state management and conditional rendering. I'm excited to build upon these concepts and tackle more complex projects that demonstrate my growing proficiency in React development.
 
 Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more projects and practical applications of React in my learning journey! 🚀

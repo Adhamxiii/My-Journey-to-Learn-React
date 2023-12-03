@@ -4,12 +4,14 @@ This is a simple React app that uses the Geolocation API to retrieve the user's 
 
 ## Table of Contents
 
-- [Description](#description)
-- [Demo](#demo)
-- [Usage](#usage)
-- [Components](#components)
-- [Custom Hook: useGeolocation](#custom-hook-usegeolocation)
-- [Connect with Me](#connect-with-me)
+- [Geolocation App](#geolocation-app)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Demo](#demo)
+  - [Usage](#usage)
+  - [Components](#components)
+  - [Custom Hook: useGeolocation](#custom-hook-usegeolocation)
+  - [Connect with Me](#connect-with-me)
 
 ## Description
 
@@ -43,7 +45,7 @@ The `useGeolocation` hook encapsulates the logic for fetching the user's GPS pos
 
 Feel free to connect with me as we explore more about React development and other exciting topics:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🌍🚀

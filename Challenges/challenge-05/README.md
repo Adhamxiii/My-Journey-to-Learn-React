@@ -6,12 +6,21 @@ Welcome to the README for the Tip Calculator App! This repository showcases the 
 
 ## Table of Contents
 
-- [App Overview](#app-overview)
-- [Code Overview](#code-overview)
-- [How It Works](#how-it-works)
-- [Learning Points](#learning-points)
-- [Future Enhancements](#future-enhancements)
-- [Connect with Me](#connect-with-me)
+- [Challenge 5: Tip Calculator App](#challenge-5-tip-calculator-app)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [App Overview](#app-overview)
+  - [Code Overview](#code-overview)
+    - [`App.js`](#appjs)
+    - [`TipCalculator.js`](#tipcalculatorjs)
+    - [`BillInput.js`](#billinputjs)
+    - [`SelectPercentage.js`](#selectpercentagejs)
+    - [`Output.js`](#outputjs)
+    - [`Reset.js`](#resetjs)
+  - [How It Works](#how-it-works)
+  - [Learning Points](#learning-points)
+  - [Future Enhancements](#future-enhancements)
+  - [Connect with Me](#connect-with-me)
 
 ## App Overview
 
@@ -81,7 +90,7 @@ While the Tip Calculator App is functional, there are several ways to enhance it
 
 Feel free to connect with me to discuss the Tip Calculator App or any other projects:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more exciting projects and developments as I continue to learn and grow as a frontend developer! 🚀

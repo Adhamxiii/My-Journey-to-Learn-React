@@ -48,7 +48,7 @@ This challenge provides valuable hands-on experience in improving the maintainab
 
 Feel free to connect with me as we explore more about React development and other exciting topics:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🌍🚀

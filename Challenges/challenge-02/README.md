@@ -4,10 +4,13 @@ Welcome back to **Challenge 2** of my learning journey! In this challenge, I've 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Learnings](#learnings)
-- [Preview](#preview)
+- [Challenge 2: Elevating My Personal Portfolio](#challenge-2-elevating-my-personal-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Learnings](#learnings)
+  - [Preview](#preview)
+  - [What's Next](#whats-next)
 
 ## Introduction
 
@@ -46,7 +49,7 @@ Here's a glimpse of the elevated personal portfolio card:
 By completing this challenge, I've further solidified my React skills and gained valuable experience in creating dynamic and visually appealing user interfaces. I'm excited to continue exploring more advanced concepts and tackling larger projects that continue to stretch my capabilities.
 
 Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more challenges and projects in my learning journey! 🚀

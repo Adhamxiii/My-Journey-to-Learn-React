@@ -4,13 +4,15 @@ This is the source code for the Atomic Blog, a React application built to demons
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Components](#components)
-- [Lessons and Learnings](#lessons-and-learnings)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
+- [Atomic Blog](#atomic-blog)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Components](#components)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [How to Run](#how-to-run)
+  - [Contributing](#contributing)
 
 ## Description
 
@@ -72,7 +74,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 
 Connect with me:
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Stay tuned for more challenges and projects in my journey to master React development! 🚀

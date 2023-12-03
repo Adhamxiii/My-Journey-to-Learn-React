@@ -4,15 +4,18 @@ This is the source code for a Movie Search App built using React. The app allows
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
-- [Live Demo](#livedemo)
-- [Usage](#usage)
-- [Components](#components)
-- [Lesson Overview](#lesson-overview)
-- [Key Concepts Covered](#key-concept-covered)
-- [Lessons and Learnings](#lessons-learnings)
-- [Hooks](#hooks)
+- [Movie Search App](#movie-search-app)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Features](#features)
+  - [Live Demo](#live-demo)
+  - [Usage](#usage)
+  - [Components](#components)
+  - [Lesson Overview](#lesson-overview)
+  - [Key Concepts Covered](#key-concepts-covered)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [Hooks](#hooks)
+  - [Connect with Me](#connect-with-me)
 
 
 ## Description
@@ -78,7 +81,7 @@ The app uses custom hooks like `useKey` for handling keyboard events, `useLocalS
 
 Feel free to connect with me as we continue to explore the exciting world of React development:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🚀

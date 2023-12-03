@@ -4,13 +4,17 @@ Welcome to the **Splitwise** Friends Expense Management App! This app allows you
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [About Me](#about-me)
-- [About This Project](#about-this-project)
-- [Lessons and Learnings](#lessons-and-learnings)
-- [Usage](#usage)
-- [Challenges](#challenges)
-- [Connect with Me](#connect-with-me)
+- [Splitwise - Friends Expense Management App](#splitwise---friends-expense-management-app)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [About Me](#about-me)
+  - [About This Project](#about-this-project)
+  - [Lessons and Learnings](#lessons-and-learnings)
+  - [Usage](#usage)
+  - [Live Demo](#live-demo)
+  - [Challenges](#challenges)
+    - [Challenge for All I've Learned](#challenge-for-all-ive-learned)
+  - [Connect with Me](#connect-with-me)
 
 ## Introduction
 
@@ -66,7 +70,7 @@ For this challenge, I applied my accumulated knowledge to create the **Splitwise
 
 Feel free to connect with me and follow my journey as I continue to master React development:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🚀

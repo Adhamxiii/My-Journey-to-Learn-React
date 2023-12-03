@@ -6,15 +6,17 @@
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Usage](#usage)
-- [Components](#components)
-- [Installation](#installation)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [Connect with Me](#connect-with-me)
+- [Classy Weather](#classy-weather)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Features](#features)
+  - [Live Demo](#live-demo)
+  - [Usage](#usage)
+  - [Components](#components)
+  - [Installation](#installation)
+  - [How It Works](#how-it-works)
+  - [Contributing](#contributing)
+  - [Connect with Me](#connect-with-me)
 
 ## Description
 
@@ -98,7 +100,7 @@ If you'd like to contribute to **Classy Weather**, please follow these steps:
 
 Feel free to connect with me as we continue to explore the exciting world of React development:
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
 
 Happy coding and happy learning! 🚀
